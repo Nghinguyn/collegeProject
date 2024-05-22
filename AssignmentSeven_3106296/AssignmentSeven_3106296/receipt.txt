@@ -1,0 +1,5 @@
+Bread : 1.40
+Chocolate Bunny : 2.30
+Easter paper gift wrap : 0.90
+Strawberry : 3.99
+Total : 100
